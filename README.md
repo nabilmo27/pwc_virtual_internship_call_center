@@ -3,7 +3,7 @@
 ## Overview
 #### The Call Center Dashboard is an interactive reporting tool built in Power BI to provide a comprehensive view of key call center performance metrics. It enables managers and decision-makers to track call handling efficiency, customer satisfaction, and agent performance across different periods.
 
-## Objective
+## Objective 
 The main objective of this dashboard is to assist in:
 
 ##### Tracking call volume trends over time.
